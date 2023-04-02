@@ -11,7 +11,6 @@ fn string_slice(arg: &str) {
 }
 fn string(arg: String) {
     println!("{}", arg);
-    
 }
 
 fn main() {
